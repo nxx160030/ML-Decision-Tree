@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Project1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/3 src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/decisionTree.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
